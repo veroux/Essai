@@ -1,1 +1,6 @@
 http://blog.martin-graesslin.com/blog/2011/04/welcoming-a-new-opengl-compositor/
+
+
+Liste de tout les bureaux sous l'environnement Linux:
+http://ftp.traduc.org/doc-vf/gazette-linux/html/2010/177/lg177-C.html#e17  
+
