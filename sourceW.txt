@@ -1,7 +1,11 @@
-http://ftp.traduc.org/doc-vf/gazette-linux/html/2010/177/lg177-C.html#e17  
+Windows 8 : Tout sur le nouvel environnement Windows 8. Les mauvais point, les bons points et les astuces pour être mieu utilisé:
 http://www.01net.com/editorial/559674-9/des-applications-metro-sous-controle/
 http://www.01net.com/operations/windows-8/
 http://www.zebulon.fr/actualites/5222-windows-8-gestion-bureau-3d.html
 http://www.01net.com/editorial/578341/windows-8-un-bureau-retravaille/
 http://www.01net.com/editorial/538056/creez-une-interface-unique/
 http://www.01net.com/editorial/578139-2/les-dernieres-erreurs-de-windows-8/
+
+Windows 95 est un système sous l'environnement Windows et à l'époque windows 95 a permis 
+d'être plus accessible pour tout le monde.
+http://windows95tips.com/
