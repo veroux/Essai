@@ -1,0 +1,19 @@
+Linux Général: 
+
+Liste de tout les bureaux sous l'environnement Linux.
+http://ftp.traduc.org/doc-vf/gazette-linux/html/2010/177/lg177-C.html#e17 
+
+Article sur le blog de martin Grasselin, un développeur du bureau KDE, sur Mutter et OpenGL.
+http://blog.martin-graesslin.com/blog/2011/04/welcoming-a-new-opengl-compositor/
+
+Comparaison de divers bureau sur la version de developpement de Ubuntu 13.04 pour le gaming.
+http://www.phoronix.com/scan.php?page=article&item=ubuntu_raring_desktops1&num=1
+
+Review de trois bureaux linux et verdict. Review écrite pendant la période de grands changements de 2011. Selon la page le meilleur bureau est KDE.
+http://www.techradar.com/news/software/operating-systems/whats-the-best-linux-desktop-environment-1045280/1#articleContent
+
+Comparaison entre Win8 et Ubuntu 12.04 Unity.
+http://www.techradar.com/news/software/operating-systems/windows-8-vs-ubuntu-battle-of-the-operating-systems-1101558/1#articleContent
+
+Billet du blog de Mark Shuttleworth sur le concept du bureau Unity en 2010.
+http://www.markshuttleworth.com/archives/383
